@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sanokows.github.io/sitemap.xml
